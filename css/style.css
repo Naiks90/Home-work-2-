@@ -29,6 +29,7 @@ body{
 .article{
     width: 420px;
     display: inline-block;
+    margin-bottom: 130px;
 }
 .left{
     margin-right: 56px;
