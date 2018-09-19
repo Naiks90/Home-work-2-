@@ -48,7 +48,13 @@ h2{
 .text{
     line-height: 24px;
 }
-button{
+.button{
     display: block;
     margin: auto;
+    height: 60px;
+    width: 160px;
+    font-size: 20px;
+    line-height: 24px;
+    background-color: white; 
+    border: 1px solid black;
 }
