@@ -1,0 +1,53 @@
+body{
+    width: 1200px;
+    margin: auto;
+    font-family: 'playfair display', Courier, monospace;
+}
+.wrapper{
+    width: 900px;
+    margin: auto;
+    font-size: 14px;
+}
+.menu{
+    
+    padding: 35px 45px 100px 165px;
+    margin: auto;
+}
+.menu-items{
+    display: inline-block;
+    margin-right: 50px;
+    text-align: center;
+    
+}
+.menu-link{
+    display: block;
+    width: 100px;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: #626262;
+}
+.article{
+    width: 420px;
+    display: inline-block;
+}
+.left{
+    margin-right: 56px;
+}
+.slogan{
+    font-family: 'Ubuntu', Courier, monospace;
+    line-height: 17px;
+    text-transform: uppercase;
+    color: #b4ad9e;
+    font-weight: lighter;
+}
+h2{
+    font-size: 30px;
+    line-height: 36px;
+}
+.text{
+    line-height: 24px;
+}
+button{
+    display: block;
+    margin: auto;
+}
