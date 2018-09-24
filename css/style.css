@@ -1,17 +1,21 @@
+
 body{
-    width: 1200px;
-    margin: auto;
+   
     font-family: 'playfair display', Courier, monospace;
 }
 .wrapper{
     width: 900px;
     margin: auto;
     font-size: 14px;
+    padding-top: 35px;
 }
 .menu{
     
-    padding: 35px 45px 100px 165px;
+    padding: 0px 45px 0px 165px;
     margin: auto;
+}
+header{
+    margin-bottom: 100px;
 }
 .menu-items{
     display: inline-block;
